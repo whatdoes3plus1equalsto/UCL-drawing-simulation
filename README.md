@@ -9,7 +9,7 @@
 ## Language
     Rust
 ## Develope Environment
-    Visual Studio 2022 (Windows)
+    Visual Studio Code (Windows)
     Visual Studio Code (MacOS)
     aviary.cs.umanitoba.ca (Linux)
 ## Features
